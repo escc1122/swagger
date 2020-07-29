@@ -6,4 +6,6 @@ https://my.oschina.net/wangmengjun/blog/907679
 
 https://springfox.github.io/springfox/docs/current/
 
+https://blog.coding.net/blog/spring-static-resource-process
+
 
