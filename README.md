@@ -8,4 +8,6 @@ https://springfox.github.io/springfox/docs/current/
 
 https://blog.coding.net/blog/spring-static-resource-process
 
+https://zhuanlan.zhihu.com/p/37765875
+
 
